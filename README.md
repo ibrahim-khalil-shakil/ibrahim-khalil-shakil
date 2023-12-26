@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ibrahim-khalil-shakil
 - 👀 I’m interested in Web Design and Web Development
 - 🌱 I’m currently learning more about PHP, Laravel, Javascript, Vue
-- 💞️ I’m looking to collaborate with Programmers with hunger to learn 
+- 💞️ I’m looking to collaborate with programmers who have a hunger to learn 
 - 📫 You can reach me at iksakil2@gmail.com
 
 <!---
