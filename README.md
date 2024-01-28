@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=50&lines=Hello,+I+am+IBRAHIM+KHALIL+SHAKIL;I+am+a+Full+Stack+Web+Developer;Specially+I'm+a+Laravel+Developer;I+have+2+%2B%20years%20of%20coding%20experience;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
-
 <a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
   <img align="center" height=170 src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show_icons=true&rank_icon=percentile&include_all_commits=true" />
 </a>
@@ -44,7 +43,9 @@
   <img height=300 width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 </a>
 
-
+### ☁️ Hosting
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### 🎨 Other Skills:
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -52,10 +53,6 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
-
-### ☁️ Hosting
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
 
 <!---
