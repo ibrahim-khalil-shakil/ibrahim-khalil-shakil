@@ -2,7 +2,7 @@
   <img align="center" src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show_icons=true&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img align="center" height=150 src="http://github-readme-streak-stats.herokuapp.com?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
+  <img align="center" height=100 src="http://github-readme-streak-stats.herokuapp.com?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
