@@ -43,7 +43,7 @@
   <img height=300 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=donut" />
 </a>
 <a align="center" href="https://github.com/ibrahim-khalil-shakil/github-contributor-stats">
-  <img height=300 width="600" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
+  <img height=300 width="500" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
 </a>
 
 
