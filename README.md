@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&center=true&vCenter=true&width=1000&height=100&lines=Hello,+I+am+IBRAHIM+KHALIL+SHAKIL;I+am+a+Full+Stack+Web+Developer;Specially+I'm+a+Laravel+Developer;I+have+1+%2B%20years%20of%20coding%20experience;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=70&lines=Hello,+I+am+IBRAHIM+KHALIL+SHAKIL;I+am+a+Full+Stack+Web+Developer;Specially+I'm+a+Laravel+Developer;I+have+1+%2B%20years%20of%20coding%20experience;Welcome+to+my+GitHub+profile)](https://git.io/typing-svg)
 
 
 <a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
