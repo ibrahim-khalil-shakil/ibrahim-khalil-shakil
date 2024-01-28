@@ -9,6 +9,15 @@
 
 [![Ibrahim's GitHub stats](https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&include_all_commits=true)](https://github.com/ibrahim-khalil-shakil/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&include_all_commits=true" />
+</a>
+<a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=pie&card_width=320" />
+</a>
+
 <!---
 ibrahim-khalil-shakil/ibrahim-khalil-shakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
