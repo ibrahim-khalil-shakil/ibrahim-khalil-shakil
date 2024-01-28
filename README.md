@@ -11,7 +11,7 @@
   <img height=300 align="center" src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=pie" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=pie" />
 </a>
 
 <!---
