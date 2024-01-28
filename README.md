@@ -1,8 +1,8 @@
 <a href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
-  <img align="center" height=350 src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show_icons=true&rank_icon=percentile&include_all_commits=true" />
+  <img align="center" height=200 src="https://github-readme-stats-ibrahim-khalils-projects.vercel.app/api?username=ibrahim-khalil-shakil&show_icons=true&rank_icon=percentile&include_all_commits=true" />
 </a>
 <a href="https://git.io/streak-stats">
-  <img height=350 src="http://github-readme-streak-stats.herokuapp.com?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
+  <img height=200 src="http://github-readme-streak-stats.herokuapp.com?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
