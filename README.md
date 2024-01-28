@@ -32,17 +32,19 @@
 <img align="left" alt="npm" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
 <img align="left" alt="terminal" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
+
 <br>
 <br>
 <br>
 <br>
 
+<a align="center" href="https://github.com/ibrahim-khalil-shakil/github-contributor-stats">
+  <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMw8u9XAejBmmCbaNBvfxpgOB4-0I44HhmdA&usqp=CAU">
+</a>
 <a align="center" href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=donut" />
 </a>
-<a align="center" href="https://github.com/ibrahim-khalil-shakil/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-khalil-shakil&size_weight=0&count_weight=1&langs_count=8&layout=pie" />
-</a>
+
 
 
 ### 🎨 Other Skills:
