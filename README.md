@@ -8,7 +8,6 @@
 </a>
 
 ### 💻 Programming Languages:
-<h3 align="left">Programming Languages:</h3>
 <table>
   <tr>
     <td align="center" width="96">
@@ -128,7 +127,50 @@
 <img align="left" alt="adobe" src="https://cdn.worldvectorlogo.com/logos/adobe-2.svg" height="30" >
 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+<div align="center">
+  
+### Who am I?
 
+I am a passionate and dedicated individual who enjoys for solutions of random challenges with a keen interest in Graphics Designing, UI/UX, Programming, and Web Designing. Over the course of my Academic Journey, I have solid foundationin these areas and have consistently excelled in related Coursework and Projects.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+### What do I do?
+
+I work as a Front-End  Web Developer, and in my free time, I enjoy developing solutions for problems that I come across.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+### When do I do that?
+
+Whenever I have some free time, I love diving into different projects and playing around with various technologies and frameworks. The thing is, I tend to start a bunch of random stuff but rarely finish them. Still, I find it exciting to learn new things while working on these projects.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+### What are your projects?
+
+I mostly work on personal projects that I don't make public. However, the ones I do release are usually at least (almost) complete.
+
+You can check my repositories [here](https://github.com/bpradiip?tab=repositories).
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+### Want to work together?
+
+If you're interested in working together on a project I would love to hear from you! Wheather you have a project in mind, want to collaborate, or simply have a question, feel free to reach out to me. You can mail me at [info@pradipbanjara.com.np](mailto:info@pradipbanjara.com.np) or use any of the following methods to get in touch:
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
+
+<h2 align="center">Connect With Me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bpradiip" height="40" width="50" /></a>
+<a href="https://fb.com/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bpradiip" height="40" width="50" /></a>
+<a href="https://instagram.com/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bpradiip" height="40" width="50" /></a>
+<a href="https://github.com/bpradiip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="bpradiip" height="40" width="50" /></a>
+</p>
 <!---
 ibrahim-khalil-shakil/ibrahim-khalil-shakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
