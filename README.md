@@ -82,6 +82,10 @@
       <img src="https://cdn.worldvectorlogo.com/logos/woocommerce-1.svg" width="48" height="48" alt="woocommerce">
       <br>WooCommerce
     </td>
+    <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="48" height="48" alt="xml">
+      <br>XML
+    </td>
   </tr>
 </table>
 
