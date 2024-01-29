@@ -71,16 +71,16 @@
       <br>CodeIgniter
     </td>
     <td align="center" width="96">
+      <img src="https://cdn.worldvectorlogo.com/logos/woocommerce-1.svg" width="48" height="48" alt="woocommerce">
+      <br>WooCommerce
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/ajax-1.svg" width="48" height="48" alt="ajax">
       <br>AJAX
     </td>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/json.svg" width="48" height="48" alt="json">
       <br>JSON
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/woocommerce-1.svg" width="48" height="48" alt="woocommerce">
-      <br>WooCommerce
     </td>
     <td align="center" width="96">
       <img src="https://cdn.worldvectorlogo.com/logos/xml-2.svg" width="48" height="48" alt="xml">
