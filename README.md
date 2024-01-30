@@ -89,7 +89,7 @@
   </tr>
 </table>
 
-### 🛠 Programming Tools:
+### 🛠 Tools & Technologies:
 <img align="left" alt="visual-studio-code" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="48" height="48" >
 <img align="left" alt="GitHub" src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg" width="48" height="48" >
 <img align="left" alt="Git" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" >
