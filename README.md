@@ -140,7 +140,7 @@ I am a dedicated and passionate individual who thrives on finding solutions to d
 
 ### What do I do?
 
-By profession, I am a Laravel Developer. In my leisure time, I find joy in crafting solutions for various challenges that captivate my interest.
+By profession, I am a Full Stack Laravel Developer. In my leisure time, I find joy in crafting solutions for various challenges that captivate my interest.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 
