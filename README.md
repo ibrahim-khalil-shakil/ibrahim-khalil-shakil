@@ -129,7 +129,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
 <div align="center">
-  
+
 ### Who am I?
 
 I am a passionate and dedicated individual who enjoys for solutions of random challenges with a keen interest in Front-End Web Development, Backend-End Web Development and Designing. Over the course of my Academic Journey, I have solid foundationin these areas and have consistently excelled in related Coursework and Projects.
@@ -145,7 +145,6 @@ I work as a Laravel Developer. And in my free time, I enjoy developing solutions
 ### What are your projects?
 
 I mostly work on personal projects that I don't make public. However, the ones I do release are not usually at least (almost) complete.
-
 You can check my repositories [here](https://github.com/ibrahim-khalil-shakil?tab=repositories).
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
