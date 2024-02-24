@@ -166,6 +166,11 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 <a href="https://twitter.com/ibrahimkhalils0" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
 <a href="mailto:iksakil2@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
 </p>
+
+![](https://komarev.com/ghpvc/?username=your-github-ibrahim-khalil-shakil&abbreviated=true&label=PROFILE+VIEWS)
+
+
+
 <!---
 ibrahim-khalil-shakil/ibrahim-khalil-shakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
