@@ -169,6 +169,8 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 
 ![](https://komarev.com/ghpvc/?username=your-github-ibrahim-khalil-shakil&abbreviated=true&label=PROFILE+VIEWS)
 
+<img src="https://widgetbite.com/stats/{ibrahim-khalil-shakil}" alt="watching_count" />
+
 
 
 <!---
