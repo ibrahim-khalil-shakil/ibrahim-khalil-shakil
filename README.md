@@ -167,7 +167,7 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 <a href="mailto:iksakil2@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="ibrahim-khalil-shakil" height="40" width="50" /></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-ibrahim-khalil-shakil&abbreviated=true&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-ibrahim-khalil-shakil&abbreviated=true&label=PROFILE+VIEWS:)
 
 <img src="https://widgetbite.com/stats/{ibrahim-khalil-shakil}" alt="watching_count" />
 
