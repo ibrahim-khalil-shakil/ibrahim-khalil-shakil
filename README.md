@@ -173,6 +173,8 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 
 ![](https://github-contributor-stats.vercel.app/api?username=ibrahim-khalil-shakil&combine_all_yearly_contributions=true&limit=5)
 
+<img src="https://myreadme.vercel.app/api/embed/ibrahim-khalil-shakil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
 
 <!---
 ibrahim-khalil-shakil/ibrahim-khalil-shakil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
