@@ -171,6 +171,7 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 
 <img src="https://widgetbite.com/stats/{ibrahim-khalil-shakil}" alt="watching_count" />
 
+![](https://github-contributor-stats.vercel.app/api?username=ibrahim-khalil-shakil&combine_all_yearly_contributions=true&limit=5)
 
 
 <!---
