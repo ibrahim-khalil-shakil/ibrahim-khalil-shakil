@@ -172,8 +172,9 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 <img src="https://widgetbite.com/stats/{ibrahim-khalil-shakil}" alt="watching_count" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=ibrahim-khalil-shakil&combine_all_yearly_contributions=true&limit=5)
-
+<!--
 <img src="https://myreadme.vercel.app/api/embed/ibrahim-khalil-shakil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+-->
 
 <img src="https://github-profile-trophy.vercel.app/?username=ibrahim-khalil-shakil&theme=juicyfresh&no-bg=true" />
 
