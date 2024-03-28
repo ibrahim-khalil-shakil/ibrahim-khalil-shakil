@@ -170,9 +170,9 @@ If you're keen on collaborating or have a project in mind, I would love to conne
 ![](https://komarev.com/ghpvc/?username=your-github-ibrahim-khalil-shakil&abbreviated=true&label=PROFILE+VIEWS:&base=100)
 
 <img src="https://widgetbite.com/stats/{ibrahim-khalil-shakil}" alt="watching_count" />
-
-![](https://github-contributor-stats.vercel.app/api?username=ibrahim-khalil-shakil&combine_all_yearly_contributions=true&limit=5)
 <!--
+![](https://github-contributor-stats.vercel.app/api?username=ibrahim-khalil-shakil&combine_all_yearly_contributions=true&limit=5)
+
 <img src="https://myreadme.vercel.app/api/embed/ibrahim-khalil-shakil?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 -->
 
