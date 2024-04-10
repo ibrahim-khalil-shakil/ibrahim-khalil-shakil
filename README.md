@@ -137,7 +137,7 @@
 I am a dedicated and passionate individual who thrives on finding solutions to diverse challenges, with a profound interest in Front-End Web Development, Backend-End Web Development, and Designing. Throughout my academic journey, I have built a robust foundation in these areas, consistently excelling in coursework and projects.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"></p>
-
+ 
 ### What do I do?
 
 By profession, I am a Full Stack Laravel Developer. In my leisure time, I find joy in crafting solutions for various challenges that captivate my interest.
