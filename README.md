@@ -6,9 +6,9 @@
 <a href="https://git.io/streak-stats">
   <img align="center" height=170 src="http://github-readme-streak-stats.herokuapp.com?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
 </a>
-<a href="https://git.io/streak-stats">
+<!-- <a href="https://git.io/streak-stats">
   <img align="center" height=170 src="https://streak-stats.demolab.com/?user=ibrahim-khalil-shakil" alt="GitHub Streak" />
-</a>
+</a> -->
 
 ### 💻 Programming Languages:
 <table>
